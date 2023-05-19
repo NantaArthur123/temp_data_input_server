@@ -1,0 +1,26 @@
+// Gaia Virtual Home V1A
++ Memperbaiki Effect clash (memperbaiki crash saat player mendapatkan effect lebih dari 8 dalam 1 tick)
++ Memperbaiki Render engine
++ Memperbaiki audio crackling
++ Memperbaiki ping tick rate
++ Menambah daily bonus setiap jam 8 malam
++ Menambah Mob Capture
++ Menambah gacha list (Backpack, Armor, Sword, Mounts)
++ Memperbarui Xaero Minimap
++ Memperbarui Fabric API
++ Memperbarui Jade
++ Memperbarui Sound Physics
++ Merubah chance Captain mob spawn 1% -> 0.1%
++ Merubah health Returned Knights boss 400 -> 4000
++ Merubah item drop Return Knights 1-3 items -> 10-30 items
++ Merubah chance tersambar petir 20% -> 10%
++ Merubah sistem visitor -> enforced whitelist (Karena sebelumnya mengalami serangan dari celah visitor)
+
+- Menghapus boss spawn arena (di hilangkan sejenak untuk memperbaiki bug)
+- Menghapus Mod Midnight Control (Controller support)
+- Menghapus Akses ke resep HWG
+
+// Gaia Virtual Home V1
+Selamat datang di Gaia Virtual Home, sebuah server Minecraft berbasis sosial yang akan membawa Anda ke dalam petualangan penuh keajaiban dan keindahan alam. Di dalam server ini, Anda akan menjelajahi dunia fantasi yang mempesona, dihiasi dengan hutan yang dalam, pegunungan menjulang tinggi, dan desa-desa yang ramai.
+
+Kamu dapat membuat custom painting kamu dengan mudah, juga didukung dengan voice chat in game, yang dapat memberikan sosial experience yang lebih seru!
