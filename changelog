@@ -1,26 +1,26 @@
-// Gaia Virtual Home V1A
-+ Memperbaiki Effect clash (memperbaiki crash saat player mendapatkan effect lebih dari 8 dalam 1 tick)
-+ Memperbaiki Render engine
-+ Memperbaiki audio crackling
-+ Memperbaiki ping tick rate
-+ Menambah daily bonus setiap jam 8 malam
-+ Menambah Mob Capture
-+ Menambah gacha list (Backpack, Armor, Sword, Mounts)
-+ Memperbarui Xaero Minimap
-+ Memperbarui Fabric API
-+ Memperbarui Jade
-+ Memperbarui Sound Physics
-+ Merubah chance Captain mob spawn 1% -> 0.1%
-+ Merubah health Returned Knights boss 400 -> 4000
-+ Merubah item drop Return Knights 1-3 items -> 10-30 items
-+ Merubah chance tersambar petir 20% -> 10%
-+ Merubah sistem visitor -> enforced whitelist (Karena sebelumnya mengalami serangan dari celah visitor)
+// ガイアバーチャルホーム V1A
++ エフェクトの衝突を修正（1回のクリックで8つ以上のエフェクトを取得するとクラッシュする問題を修正）
++ レンダーエンジンを修正
++ オーディオの音割れを修正
++ Pingのチックレートを修正
++ 毎日20時にデイリーボーナスを追加
++ モブキャプチャを追加
++ ガチャリストを追加（バックパック、アーマー、ソード、マウント）。
++ Xaero Minimapを更新
++ ファブリックAPIを更新
++ ジェイドを更新
++ サウンドフィジックスの更新
++ キャプテン・モブ・スポーン確率を1%から0.1%に変更。
++ 帰還した騎士団のボスの体力を400から4000に変更しました。
++ Returned Knightsのアイテムドロップを1～3個に変更 -> 10～30個に変更
++ 雷に打たれる確率を20%→10%に変更
++ ビジターシステムを変更→ホワイトリストを強化（以前、ビジターの隙を突いた攻撃を受けたため）
 
-- Menghapus boss spawn arena (di hilangkan sejenak untuk memperbaiki bug)
-- Menghapus Mod Midnight Control (Controller support)
-- Menghapus Akses ke resep HWG
+- ボスのスポーンアリーナを削除（バグ修正のためしばらく削除）
+- ミッドナイトコントロールMODを削除（コントローラー対応）
+- HWGレシピへのアクセス権を削除
 
-// Gaia Virtual Home V1
-Selamat datang di Gaia Virtual Home, sebuah server Minecraft berbasis sosial yang akan membawa Anda ke dalam petualangan penuh keajaiban dan keindahan alam. Di dalam server ini, Anda akan menjelajahi dunia fantasi yang mempesona, dihiasi dengan hutan yang dalam, pegunungan menjulang tinggi, dan desa-desa yang ramai.
+// ガイアバーチャルホームV1
+ガイアバーチャルホームへようこそ！このサーバーは、自然の驚異と美しさの冒険にあなたを誘うソーシャルMinecraftサーバーです。このサーバーでは、深い森、そびえ立つ山、にぎやかな村が点在する、魅惑的なファンタジー世界を探検することができます。
 
-Kamu dapat membuat custom painting kamu dengan mudah, juga didukung dengan voice chat in game, yang dapat memberikan sosial experience yang lebih seru!
+自分だけのオリジナルペイントを簡単に作成できるほか、ゲーム内のボイスチャットにも対応しており、よりエキサイティングなソーシャル体験ができます！
